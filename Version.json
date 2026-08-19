@@ -1,12 +1,12 @@
 {
-  "latest_version": "2608.9.21",
+  "latest_version": "2608.9.25",
   "release_date": "2026-08-19",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2608.9.21/WaitBoard_v2608.9.21.apk",
+    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2608.9.25/WaitBoard_v2608.9.25.apk",
     "sha256": ""
   },
   "changelog": [
     "支持線上更新",
-    "修正返回按鈕"
+    "修正WAM服務器媒體解析異常問題"
   ]
 }
