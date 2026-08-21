@@ -1,12 +1,13 @@
 {
-  "latest_version": "2608.9.31",
-  "release_date": "2026-08-20",
+  "latest_version": "2608.9.37",
+  "release_date": "2026-08-21",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2608.9.31/WaitBoard_v2608.9.31.apk",
+    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2608.9.37/WaitBoard_v2608.9.37.apk",
     "sha256": ""
   },
   "changelog": [
-    "支持線上更新",
+    "媒體畫質提升上限制1080",
+    "變更多媒體播放核心",
     "修正WAN服務器媒體解析異常問題",
     "修復各種格式於不同服務器的串流支援",
     "圖片、離線影片、YT串流、YT直播"
