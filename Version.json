@@ -1,15 +1,13 @@
 {
-  "latest_version": "2608.9.38",
-  "release_date": "2026-08-21",
+  "latest_version": "2608.11.01",
+  "release_date": "2026-08-24",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2608.9.38/WaitBoard_v2608.9.38.apk",
+    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2608.11.01/WaitBoard_v2608.11.01.apk",
     "sha256": ""
   },
   "changelog": [
     "媒體畫質提升上限制1080",
-    "變更多媒體播放核心",
-    "修正WAN服務器媒體解析異常問題",
-    "修復各種格式於不同服務器的串流支援",
-    "圖片、離線影片、YT串流、YT直播"
+    "修正醫師名稱顯示大小",
+    "修正候診列表翻頁異常"
   ]
 }
