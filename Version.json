@@ -1,12 +1,12 @@
 {
-  "latest_version": "2608.11.01",
-  "release_date": "2026-08-24",
+  "latest_version": "2608.11.02",
+  "release_date": "2026-08-25",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2608.11.01/WaitBoard_v2608.11.01.apk",
+    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2608.11.02/WaitBoard_v2608.11.02.apk",
     "sha256": ""
   },
   "changelog": [
-    "媒體畫質提升上限制1080",
+    "修正候診序為'0'列表重複顯示",
     "修正醫師名稱顯示大小",
     "修正候診列表翻頁異常"
   ]
