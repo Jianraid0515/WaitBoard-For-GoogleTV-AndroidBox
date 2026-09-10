@@ -1,12 +1,11 @@
 {
-  "latest_version": "2609.02.04",
-  "release_date": "2026-09-09",
+  "latest_version": "2609.03.01",
+  "release_date": "2026-09-10",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2609.02.04/WaitBoard_v2609.02.04.apk",
+    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2609.03.01/WaitBoard_v2609.03.01.apk",
     "sha256": ""
   },
   "changelog": [
-    "修正醫師名稱顯示大小",
-    "語音合成錯誤回饋修正。"
+    "更新硬體識別碼解析"
   ]
 }
