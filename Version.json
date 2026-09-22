@@ -1,8 +1,8 @@
 {
-  "latest_version": "2609.05.07",
-  "release_date": "2026-09-18",
+  "latest_version": "2609.06.01",
+  "release_date": "2026-09-22",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2609.05.07/WaitBoard_v2609.05.07.apk",
+    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2609.06.01/WaitBoard_v2609.06.01.apk",
     "sha256": ""
   },
   "changelog": [
