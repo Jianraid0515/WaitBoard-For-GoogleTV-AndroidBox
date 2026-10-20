@@ -1,14 +1,13 @@
 {
-  "latest_version": "2609.06.02",
-  "release_date": "2026-09-22",
+  "latest_version": "2610.01.02",
+  "release_date": "2026-10-20",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2609.06.02/WaitBoard_v2609.06.02.apk",
+    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2610.10.02/WaitBoard_v2610.01.02.apk",
     "sha256": ""
   },
   "changelog": [
-    "優化候診表名單更新頻率",
-    "截斷連續叫號的延遲，中斷未完語音，直接輸出最後合成語音(不同診別互不影響)",
-    "後台回饋診斷資訊，多媒體快取優化",
+    "優化前端喚醒多媒體撥放串聯狀態",
+    "連線設定新增",
     "##請確認伺服器已更新至2609.05.07版本再進行更新。"
   ]
 }
