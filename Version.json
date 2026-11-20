@@ -1,14 +1,11 @@
 {
-  "latest_version": "2610.01.04",
-  "release_date": "2026-10-30",
+  "latest_version": "2611.01.00",
+  "release_date": "2026-11-20",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2610.10.04/WaitBoard_v2610.01.04.apk",
+    "url": "https://github.com/Jianraid0515/WaitBoard-For-GoogleTV-AndroidBox/releases/download/V2611.01.00/WaitBoard_v2611.01.00.apk",
     "sha256": ""
   },
   "changelog": [
-    "優化前端喚醒多媒體撥放串聯狀態",
-    "連線設定新增",
-    "修正特定門診顯示邏輯",
-    "##請確認伺服器已更新至2609.05.07版本再進行更新。"
+    "多媒體播放邏輯修正"
   ]
 }
